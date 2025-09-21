@@ -1,4 +1,4 @@
-# ⚖️ Legis Synapse 3.0  
+# ⚖️ Legis Synapse
 **Generative AI for Demystifying Legal Documents**  
 *Powered by Google Agent Development Kit (ADK)*  
 
@@ -114,20 +114,4 @@ The ADK is a Python-first toolkit for building and deploying AI agents.
 
 ```bash
 pip install google-adk
-Release cadence: Bi-weekly. Always update before development.
-
-Requirements File
-Create a requirements.txt:
-
-pgsql
-Copy code
-google-adk
-firebase-admin
-google-cloud-storage
-google-cloud-firestore
-web3
-Install dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
