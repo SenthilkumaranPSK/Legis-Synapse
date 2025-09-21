@@ -36,7 +36,7 @@ Watch our demo video here:
 
 ## Prototype  
 Try our Prototype here:  
-[![Try Demo]([https://img.shields.io/badge/Watch%20Video-Click%20Here-blue)](https://drive.google.com/file/d/1VvgaZ-wlL8sxpO-b2mhNzDNU--Cn7a0Q/view](https://my-adk-service-114499807475.us-central1.run.app))
+[![Try Demo]([https://img.shields.io/badge/Watch%20Video-Click%20Here-blue)](https://my-adk-service-114499807475.us-central1.run.app))
 
 ---
 
