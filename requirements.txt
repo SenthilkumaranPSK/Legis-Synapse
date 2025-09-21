@@ -1,0 +1,9 @@
+# requirements.txt
+google-adk
+adk
+requests
+flask
+gunicorn
+google-generativeai
+dotenv
+# Add any other libraries your agent.py uses
